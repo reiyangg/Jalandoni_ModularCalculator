@@ -22,4 +22,4 @@ def divide(num1, num2):
             
 
   if choice == '1':
-    
+    print(f"Result: {num1} + {num2} = {(add(num1, num2)}")
